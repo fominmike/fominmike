@@ -25,3 +25,10 @@ Hello, my name is Michael and I'm a Full Stack Web Developer. Im passionate abou
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fominmike&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+## Reach Me
+- ✉️ mikeyyfomin@gmail.com
+- ☎️ (916)575-0969
+- 💻 https://www.linkedin.com/in/michael-fomin-73531224a/

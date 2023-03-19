@@ -7,6 +7,9 @@
 <br>
 <br>
 
+# 💫 About Me:
+Hello, my name is Michael and I'm a Full Stack Web Developer. Im passionate about problem-solving, helping others, and creating unique projects.
+
 
 
 # 💻 Tech Stack:

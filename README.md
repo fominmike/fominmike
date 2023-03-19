@@ -10,8 +10,8 @@
 Hello, my name is Michael and I'm a Full Stack Web Developer. Im passionate about problem-solving, helping others, and creating unique projects.
 
 
-### 🌐 Feel free to connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fomin-73531224a?trk=people-guest_people_search-card) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mikefominn/) 
+# 🌐Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fomin-73531224a?trk=people-guest_people_search-card) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mikefominn/)  [![Gmail]( [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mikefominn/) )](mikeyyfomin@gmail.com/) 
 
 
 # 💻 Tech Stack:

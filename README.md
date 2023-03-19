@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Fomin</h1>
+<h1 align="center">Hi 👋,  I'm Michael Fomin</h1>
 <h3 align="center">💻 Full Stack Web Developer 💻</h3>
 <br>
 <br>
@@ -22,3 +22,6 @@ Hello, my name is Michael and I'm a Full Stack Web Developer. Im passionate abou
 ) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 ) ![WebPack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white
 )
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fominmike&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
